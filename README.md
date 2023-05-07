@@ -1,5 +1,5 @@
 # randomUser
-Generateing Random Users using the fetch API Method 
+Generating Random Users using the fetch API Method 
 <br>
 <img src="user.png" alt="">
 <br>
